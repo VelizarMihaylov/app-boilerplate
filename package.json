@@ -16,7 +16,7 @@
     "dayjs": "^1.8.18",
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-redux": "^7.1.1",
